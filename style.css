@@ -10,11 +10,11 @@ header {
     border-bottom: solid 3px blueviolet ;
     padding: 20px;
     font-size: 32px;
-    color: hsl(271, 76%, 53%)
+    color: hsl blueviolet}
 
-}
 
-,chamada {
+
+.chamada {
     background :rgb(184,156,213);
     padding-bottom: 80px ;
     padding-top: 80px ;
@@ -41,7 +41,7 @@ p {
     gap: 1opx;
 }
 
-,categoria {
+.categoria {
      padding-left:20px ;
      padding-right: 20px;
      margin: top 50px; ;
